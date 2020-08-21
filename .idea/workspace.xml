@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3b42530b-54fc-4fa0-af47-644d153a7687" name="Default Changelist" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
@@ -210,7 +219,7 @@
       <workItem from="1597893554887" duration="6614000" />
       <workItem from="1597912686664" duration="1169000" />
       <workItem from="1597976597580" duration="1316000" />
-      <workItem from="1597992613401" duration="2794000" />
+      <workItem from="1597992613401" duration="3154000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1597999031306</created>
@@ -219,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597999031306</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1598000239864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598000239864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,10 +360,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="362" y="82" width="576" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1597677918539" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1597999853736">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1598000262114">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1597999853736" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598000262114" />
     <state x="402" y="75" key="VcsDiffUtil.ChangesDialog" timestamp="1597999276654">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
