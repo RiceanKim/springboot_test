@@ -1,0 +1,19 @@
+2020-08-20 15:39:27.552 [] INFO  - com.ctrip.framework.foundation.internals.provider.DefaultApplicationProvider - [100] - App ID is set to ly.iov.geohash.search by app.id property from System Property
+2020-08-20 15:39:27.557 [] INFO  - com.ctrip.framework.foundation.internals.provider.DefaultServerProvider - [130] - Environment is set to null. Because it is not available in either (1) JVM system property 'env', (2) OS env variable 'ENV' nor (3) property 'env' from the properties InputStream.
+2020-08-20 15:39:27.616 [] INFO  - com.ctrip.framework.apollo.internals.DefaultMetaServerProvider - [42] - Located meta services from apollo.meta configuration: http://vitappkf.venucia.com/iovConfigCenter!
+2020-08-20 15:39:27.624 [] INFO  - com.ctrip.framework.apollo.core.MetaDomainConsts - [93] - Located meta server address http://vitappkf.venucia.com/iovConfigCenter for env UNKNOWN from com.ctrip.framework.apollo.internals.DefaultMetaServerProvider
+2020-08-20 15:39:28.165 [] INFO  - com.ricean.ApplicationMain - [50] - Starting ApplicationMain on B013188 with PID 6948 (D:\IdeaProjects\springboot\springboot_test\build\libs\springboot_test-1.0-SNAPSHOT.jar started by ly-buzx in D:\IdeaProjects\springboot\springboot_test\build\libs)
+2020-08-20 15:39:28.165 [] INFO  - com.ricean.ApplicationMain - [652] - The following profiles are active: database
+2020-08-20 15:39:30.262 [] INFO  - org.apache.coyote.http11.Http11NioProtocol - [173] - Initializing ProtocolHandler ["http-nio-9090"]
+2020-08-20 15:39:30.275 [] INFO  - org.apache.catalina.core.StandardService - [173] - Starting service [Tomcat]
+2020-08-20 15:39:30.276 [] INFO  - org.apache.catalina.core.StandardEngine - [173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-20 15:39:30.436 [] INFO  - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - [173] - Initializing Spring embedded WebApplicationContext
+2020-08-20 15:39:30.559 [] INFO  - com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - [56] - Init DruidDataSource
+2020-08-20 15:39:31.187 [] INFO  - com.alibaba.druid.pool.DruidDataSource - [983] - {dataSource-1,mpjaval3} inited
+2020-08-20 15:39:31.846 [] INFO  - springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - [69] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-20 15:39:32.420 [] INFO  - springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - [160] - Context refreshed
+2020-08-20 15:39:32.437 [] INFO  - springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - [163] - Found 1 custom documentation plugin(s)
+2020-08-20 15:39:32.494 [] INFO  - springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - [41] - Scanning for api listing references
+2020-08-20 15:39:32.638 [] INFO  - org.apache.coyote.http11.Http11NioProtocol - [173] - Starting ProtocolHandler ["http-nio-9090"]
+2020-08-20 15:39:32.701 [] INFO  - com.ricean.ApplicationMain - [59] - Started ApplicationMain in 5.955 seconds (JVM running for 6.719)
+2020-08-20 15:39:42.316 [] INFO  - org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'

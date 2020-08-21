@@ -1,0 +1,51 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '2.1.16.RELEASE'
+}
+allprojects {
+    repositories {
+        maven { url 'https://maven.aliyun.com/repository/public' }
+    }
+}
+group 'com.ricean'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    // https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.1.16.RELEASE'
+
+    // https://mvnrepository.com/artifact/org.projectlombok/lombok
+    compileOnly 'org.projectlombok:lombok:1.18.12'
+
+    // https://mvnrepository.com/artifact/com.ctrip.framework.apollo/apollo-client
+    compile group: 'com.ctrip.framework.apollo', name: 'apollo-client', version: '1.7.0'
+
+    // https://mvnrepository.com/artifact/io.springfox/springfox-swagger2
+    compile group: 'io.springfox', name: 'springfox-swagger2', version: '2.9.2'
+
+    // https://mvnrepository.com/artifact/io.springfox/springfox-swagger-ui
+    compile group: 'io.springfox', name: 'springfox-swagger-ui', version: '2.9.2'
+
+    // https://mvnrepository.com/artifact/com.alibaba/druid-spring-boot-starter
+    compile group: 'com.alibaba', name: 'druid-spring-boot-starter', version: '1.1.23'
+
+//    // https://mvnrepository.com/artifact/com.alibaba/druid
+//    compile group: 'com.alibaba', name: 'druid', version: '1.1.23'
+
+    // https://mvnrepository.com/artifact/mysql/mysql-connector-java
+    compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.38'
+
+    compile group: 'com.baomidou', name: 'mybatis-plus-boot-starter', version: '2.2.0'
+
+//    // https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-validation
+//    compile group: 'org.springframework.boot', name: 'spring-boot-starter-validation', version: '2.3.1.RELEASE'
+
+
+}
+

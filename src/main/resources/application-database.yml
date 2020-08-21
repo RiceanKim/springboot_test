@@ -1,0 +1,22 @@
+# 配置datasource
+spring:
+  datasource:
+    druid:
+      name: ${write.mp.l3.jdbc.name}
+      url: ${write.mp.l3.jdbc.url}
+      username: ${write.mp.l3.jdbc.username}
+      password: ${write.mp.l3.jdbc.password}
+      driver-class-name: com.mysql.jdbc.Driver
+      initial-size: ${druid.initialSize}
+      min-idle: ${druid.minIdle}
+      max-active: ${druid.maxActive}
+      max-wait: ${druid.maxWait}
+      time-between-eviction-runs-millis: ${druid.timeBetweenEvictionRunsMillis}
+      min-evictable-idle-time-millis: ${druid.minEvictableIdleTimeMillis}
+      validation-query: ${druid.validationQuery}
+      test-while-idle: ${druid.testWhileIdle}
+      test-on-borrow: ${druid.testOnBorrow}
+      test-on-return: ${druid.testOnReturn}
+      pool-prepared-statements: ${druid.poolPreparedStatements}
+      max-pool-prepared-statement-per-connection-size: ${druid.maxPoolPreparedStatementPerConnectionSize}
+      filters: ${druid.filters}
