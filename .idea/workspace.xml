@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b42530b-54fc-4fa0-af47-644d153a7687" name="Default Changelist" comment="first commit" />
+    <list default="true" id="3b42530b-54fc-4fa0-af47-644d153a7687" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +221,7 @@
       <workItem from="1597893554887" duration="6614000" />
       <workItem from="1597912686664" duration="1169000" />
       <workItem from="1597976597580" duration="1316000" />
-      <workItem from="1597992613401" duration="3154000" />
+      <workItem from="1597992613401" duration="4856000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1597999031306</created>
@@ -360,10 +362,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="362" y="82" width="576" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1597677918539" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1598000262114">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1598000388588">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598000262114" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598000388588" />
     <state x="402" y="75" key="VcsDiffUtil.ChangesDialog" timestamp="1597999276654">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -380,10 +382,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="0" y="0" width="603" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1597720146107" />
-    <state x="443" y="247" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597999830299">
+    <state x="327" y="128" key="git4idea.merge.GitPullDialog" timestamp="1598229387168">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="443" y="247" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1597999830299" />
+    <state x="327" y="128" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1598229387168" />
+    <state x="443" y="247" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598000342227">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="443" y="247" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1598000342227" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1597717425423">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
