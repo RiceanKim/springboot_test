@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.sql.DataSource;
-import javax.validation.Valid;
 
 @RestController
 @RequestMapping(value = "/buzx/test")
@@ -35,5 +34,8 @@ public class TestService {
         return testService.selById(form.getVin());
 
     }
-
+    @PostMapping("/test")
+    public TestVO test(@Validated @RequestBody UserForm form) {
+        return testService.test(form.getVin());
+    }
 }

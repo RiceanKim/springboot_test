@@ -10,8 +10,33 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b42530b-54fc-4fa0-af47-644d153a7687" name="Default Changelist" comment="first commit">
+    <list default="true" id="3b42530b-54fc-4fa0-af47-644d153a7687" name="Default Changelist" comment="second commit">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/annotation-processors.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/annotation-processors.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ricean/biz/TestBizImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/ricean/biz/TestBizImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ricean/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/ricean/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ricean/entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/ricean/entities/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ricean/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/ricean/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ricean/service/TestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/ricean/service/TestService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application-database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application-database.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ricean/biz/TestBizImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ricean/biz/TestBizImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ricean/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ricean/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ricean/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ricean/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ricean/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ricean/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ricean/service/TestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ricean/service/TestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-database.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +120,7 @@
       <recent name="D:\IdeaProjects\springboot\springboot_test\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.springboot_test [bootJar]">
+  <component name="RunManager" selected="Spring Boot.ApplicationMain">
     <configuration name="springboot_test [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -191,6 +216,13 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="ApplicationMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_test.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ricean.ApplicationMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.springboot_test [bootJar]" />
@@ -221,7 +253,8 @@
       <workItem from="1597893554887" duration="6614000" />
       <workItem from="1597912686664" duration="1169000" />
       <workItem from="1597976597580" duration="1316000" />
-      <workItem from="1597992613401" duration="4856000" />
+      <workItem from="1597992613401" duration="5039000" />
+      <workItem from="1598230090876" duration="10759000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1597999031306</created>
@@ -237,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598000239864</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second commit">
+      <created>1598229435384</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598229435384</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,13 +293,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="267" y="19" key="#Inspections" timestamp="1597721294978">
@@ -298,38 +340,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="344" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1597999508144" />
-    <state width="1237" height="206" key="GridCell.Tab.0.bottom" timestamp="1597909190468">
+    <state width="1237" height="206" key="GridCell.Tab.0.bottom" timestamp="1598248726142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="206" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597909190468" />
-    <state width="1237" height="206" key="GridCell.Tab.0.center" timestamp="1597909190468">
+    <state width="1237" height="206" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598248726142" />
+    <state width="1237" height="206" key="GridCell.Tab.0.center" timestamp="1598248726142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="206" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597909190468" />
-    <state width="1237" height="206" key="GridCell.Tab.0.left" timestamp="1597909190468">
+    <state width="1237" height="206" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598248726142" />
+    <state width="1237" height="206" key="GridCell.Tab.0.left" timestamp="1598248726142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="206" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597909190468" />
-    <state width="1237" height="206" key="GridCell.Tab.0.right" timestamp="1597909190468">
+    <state width="1237" height="206" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598248726142" />
+    <state width="1237" height="206" key="GridCell.Tab.0.right" timestamp="1598248726142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="206" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597909190468" />
-    <state width="1237" height="206" key="GridCell.Tab.1.bottom" timestamp="1597909190465">
+    <state width="1237" height="206" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598248726142" />
+    <state width="1237" height="206" key="GridCell.Tab.1.bottom" timestamp="1598248726142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="206" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597909190465" />
-    <state width="1237" height="206" key="GridCell.Tab.1.center" timestamp="1597909190465">
+    <state width="1237" height="206" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598248726142" />
+    <state width="1237" height="206" key="GridCell.Tab.1.center" timestamp="1598248726142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="206" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597909190465" />
-    <state width="1237" height="206" key="GridCell.Tab.1.left" timestamp="1597909190465">
+    <state width="1237" height="206" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1598248726142" />
+    <state width="1237" height="206" key="GridCell.Tab.1.left" timestamp="1598248726142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="206" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597909190465" />
-    <state width="1237" height="206" key="GridCell.Tab.1.right" timestamp="1597909190465">
+    <state width="1237" height="206" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1598248726142" />
+    <state width="1237" height="206" key="GridCell.Tab.1.right" timestamp="1598248726142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="206" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597909190465" />
+    <state width="1237" height="206" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1598248726142" />
     <state width="1237" height="204" key="GridCell.Tab.2.bottom" timestamp="1597739681399">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -362,10 +404,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="362" y="82" width="576" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1597677918539" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1598000388588">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1598229450974">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598000388588" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598229450974" />
     <state x="402" y="75" key="VcsDiffUtil.ChangesDialog" timestamp="1597999276654">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -390,10 +432,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="443" y="247" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1598000342227" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1597717425423">
+    <state x="312" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1598236903721">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1597717425423" />
+    <state x="312" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1598236903721" />
     <state x="286" y="24" key="spring file set editor" timestamp="1597662393530">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

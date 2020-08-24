@@ -1,16 +1,15 @@
 package com.ricean.entities;
 
-import com.baomidou.mybatisplus.annotations.TableId;
-import com.baomidou.mybatisplus.annotations.TableName;
+import com.baomidou.mybatisplus.annotation.TableId;
+import com.baomidou.mybatisplus.annotation.TableName;
+import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
 import java.util.Date;
 
-@Getter
-@Setter
-@ToString
+@Data
 @TableName(value = "t_iov_car_show_flow_record")
 public class User {
     @TableId
